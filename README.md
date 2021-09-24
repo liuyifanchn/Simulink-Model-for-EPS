@@ -21,9 +21,9 @@ This model is used in Sec. 5 in the paper for verifying the **Dual Delays** effe
 
 ## How To Run
 
-- step 1: run the Sim_Paras_Init.m
-- step 2: run the Sim_EPS.slx (for the EPS) or Sim_EPSw.slx (for the EPSw)
-- step 3: see the results displayed in the scope in the Simulink Model
+- step 1: run the **Sim_Paras_Init.m** for initializing the parameter environment (be free to change)
+- step 2: run the **Sim_EPS.slx** (for the EPS) or **Sim_EPSw.slx** (for the EPSw)
+- step 3: see the results displayed in the **Scope** in the Simulink Model
 
 
 ## License 
