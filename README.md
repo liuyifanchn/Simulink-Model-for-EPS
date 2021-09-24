@@ -24,3 +24,7 @@ This model is used in Sec. 5 in the paper for verifying the **Dual Delays** effe
 - step 1: run the Sim_Paras_Init.m
 - step 2: run the Sim_EPS.slx (for the EPS) or Sim_EPSw.slx (for the EPSw)
 - step 3: see the results displayed in the scope in the Simulink Model
+
+
+## License 
+The project is licensed under the MIT License. Please see [LICENSE](https://github.com/liuyifanchn/Simulink-Model-for-EPS/blob/main/LICENSE) for details.
